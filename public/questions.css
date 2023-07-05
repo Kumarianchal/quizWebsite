@@ -1,0 +1,66 @@
+body{
+	background-color: rgb(104, 252, 223);
+	font-family: monospace;
+	background: #50C9C3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #96DEDA, #50C9C3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #96DEDA, #50C9C3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.right, .wrong{
+	color: rgb(252, 43, 35);
+    border-radius: 5px;
+    background-color: rgb(144, 242, 245);
+    border: 2px solid rgb(252, 43, 35);
+}
+
+
+h1{
+	background-color:rgb(174, 245, 233) ;
+	text-align: center;
+	color: white;
+	margin: 10%;
+	background: #8A2387;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.each{
+	font-size: 30px;
+	color: rgb(61, 50, 47);
+	margin: 20px 0;
+}
+ul li{
+	font-size: 20px;
+	color: rgb(237, 7, 30);
+	margin: 10px 0;
+}
+.win{
+	background-color: orange;
+	color: white;
+}
+.loose{
+	background-color: orange;
+	color: white;
+}
+.greens{
+	background-color: darkgreen;
+	color: white;
+}
+.reds{
+	background-color: red;
+	color: white;
+}
+#submit{
+	margin: 10% 50%;
+}
+h3{
+	background-color: rgb(224, 43, 43);
+	color: white;
+	margin: auto;
+	width: 70%;
+	text-align: center;
+}
+#done{
+	margin: 10% 50%;
+	background-color: rgb(116, 169, 247);
+}
